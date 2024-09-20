@@ -37,7 +37,8 @@ def Simple_Calculator():
             print("Not Defined")
         else:
             print(num1/num2)
-        
+    else:
+        print("Invalid Operator selected")
 complex_operation=input("Enter '1'  for Scientfic  or '2' for Simple Calculator ").lower()
 
 if complex_operation=="1":
