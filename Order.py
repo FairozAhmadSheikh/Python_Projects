@@ -1,3 +1,4 @@
+# A simple Approach
 print("Shopping managment")
 
 Laptop_price = 1200
